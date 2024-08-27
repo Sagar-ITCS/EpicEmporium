@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-const Navbar = () => {
-    return (
-        <div>
-            Navbar
-
-
-        </div>
-    )
-}
-
-export default Navbar
-=======
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { LuShoppingCart } from "react-icons/lu";
@@ -146,4 +131,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
->>>>>>> beta
